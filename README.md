@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction
-Predicting the state of cancer.
+This project is used to predict whether the cancer patient is in state of Malignant or Benign and this prediction in turn would help the medical experts and doctors to predict whether that particular person can be saved or not. The algorithm used for building this project is Logistic Regression and the various libraries used are ScikitLearn, NumPy and Pandas. The model buildt with Logistic regression model gave very decent efficiency of 95.11% on training data and 92.98% efficiency on testing data. 
